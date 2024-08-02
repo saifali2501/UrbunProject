@@ -1,0 +1,12 @@
+.inpute_search{
+    position: relative;
+    display: inline-block;
+    width: fit-content;
+}
+.search{
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+
+}
